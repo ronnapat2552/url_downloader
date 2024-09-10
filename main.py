@@ -137,7 +137,7 @@ def bar(left,total,length) : # A Bar Genarator
 
 
 
-URL = "https://archive.org/download/WindowsVistaBeta1Build5112x86DVD/en_longhorn_beta1_dvd.iso"
+URL = ""
 
 URL = input("Insert Download Link : ")
 
