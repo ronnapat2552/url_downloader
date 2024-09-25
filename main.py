@@ -164,6 +164,8 @@ print("")
 print("\n\n")
 CHUNK = 16 * 1024
 
+print("\x1b[?25l") # Hide cursor
+
 data = 0
 with open(URL.split("/")[-1], 'wb') as f:
     while True:
@@ -190,6 +192,8 @@ with open(URL.split("/")[-1], 'wb') as f:
 
 
         f.write(chunk)
+
+print("\x1b[?25h") # Show Cursor
 
 print("")
 print("Download Successfully.")
