@@ -9,8 +9,8 @@ and Volia! The file is downloading.
 _Note : This program is not 100% stable<br>
 So, use this program at your own risk._
 
-_Disclaimer : I am not responsible for privacy,
-All Software are belong to their publisher respectively._
+_Disclaimer : I am not responsible for privacy,<br>
+All software downloaded with this tool belongs to their respective publishers._
 
 # To Do List
 - [ ] Fix Floating Point Data Binary Prefix Function
