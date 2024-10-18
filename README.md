@@ -7,7 +7,10 @@ Just paste download link and press enter.<br>
 and Volia! The file is downloading.
 
 _Note : This program is not 100% stable<br>
-So, use this program at your own risk._
+So, use this program at your own risk.
+
+Disclaimer : I am not responsible for privacy,
+All Software are belong to their publisher respectively._
 
 # To Do List
 - [ ] Fix Floating Point Data Binary Prefix Function
